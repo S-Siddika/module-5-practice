@@ -21,14 +21,14 @@ body {
     color: #181818;
     text-align: center;
     font-size: 35px;
-    font-weight: 700;
+    /* font-weight: 700; */
 }
 
 .section-description {
     color: #757575;
     text-align: center;
     font-size: 18px;
-    font-weight: 400;
+    /* font-weight: 400; */
 }
 
 /* nav related styles */
@@ -138,4 +138,13 @@ main {
 .about-info-description {
     color: #474747;
     font-weight: bolder;
+}
+
+/* what i do section styles */
+#what-i-do-description{
+    padding: 30px 150px;
+}
+
+.skills-container{
+    display: flex;
 }
