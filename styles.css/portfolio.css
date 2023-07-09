@@ -226,6 +226,7 @@ footer {
 
 .footer-column {
     width: 50%;
+    text-align: left;
 }
 
 .social-links a {
